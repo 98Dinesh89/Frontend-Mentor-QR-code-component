@@ -22,7 +22,7 @@ body {
 
 .QRbox {
   background-color: hsl(216, 15%, 48%);
-  background-image: url("/images/image-qr-code.png");
+  background-image: url("./images/image-qr-code.png");
   background-size: cover;
   width: 230px;
   height: 230px;
